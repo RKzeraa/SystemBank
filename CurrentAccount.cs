@@ -6,4 +6,5 @@ public class CurrentAccount
     string Account;
     string Agency;
     double Balance;
+    
 }
